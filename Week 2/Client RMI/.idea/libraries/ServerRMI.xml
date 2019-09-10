@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="ServerRMI">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../ServerRMI" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../ServerRMI/src" />
+    </SOURCES>
+  </library>
+</component>
