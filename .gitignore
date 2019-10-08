@@ -1,2 +1,9 @@
-/Week 1/P1-WhoisClient/nbproject/private/
-/Week 1/P1-WhoisClient/build/
+Week 1/P1-WhoisClient/nbproject/private/
+Week 1/P1-WhoisClient/build/
+SoapTest/target/
+camunda/
+camundaModeler/
+gs-producing-web-service-master/
+resttest/
+si-miniproject1-master/
+soaptest/
